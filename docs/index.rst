@@ -3,6 +3,12 @@ Access Club Pogo Sign In Home Page – Login and Start Playing
 
 Are you a Club Pogo player looking for direct access to your favorite games? If you've been searching for the official **Pogo sign in page**, you're in the right place. Getting to the **Club Pogo home page** and logging in successfully is the first step to enjoy an ad-free gaming experience, earn badges, participate in exclusive tournaments, and more. In this guide, we’ll walk you through how to access the **Pogo sign in page**, how to use the **Club Pogo home page**, and what to do if you run into common login problems.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://pogo-desk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Pogo</a>
+   </div>
+
 Whether you’re a daily player or someone returning after a break, it’s important to know how to navigate the **Pogo sign in page** and what features await you on the **Club Pogo home page**. Let’s dive in and help you login, play, and stay connected.
 
 Why You Need to Use the Official Pogo Sign In Page
